@@ -15,7 +15,7 @@ function TeacherItem(){
         <p>
             Entusiasta das melhores tecnologias de matemática avançada
             <br/> <br/>
-            Apaixonado por calcular coisas em sala de aula e por mudar a vida das pessoas através de cálculos enormes.
+            Apaixonado por calcular em sala de aula e por mudar a vida das pessoas através de cálculos enormes.
         </p>
         <footer>
             <p>
