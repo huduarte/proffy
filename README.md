@@ -47,7 +47,7 @@ This project was made using the follow technologies:
 # :construction_worker: How to run
 ```bash
 # Clone Repository
-$ git clone https://github.com/RafaelGoulartB/Proffy.git
+$ git clone https://github.com/huduarte/proffy.git
 ```
 ### 📦 Run API
 
