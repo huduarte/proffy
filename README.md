@@ -94,8 +94,6 @@ $ yarn start
 ```
 Aferter read the QRCode with the app of [expo](https://play.google.com/store/apps/details?id=host.exp.exponent) or run on emulator.
 
-Made with love by [Rafael Goulart](https://github.com/RafaelGoulartB) 🚀.
-This project is under the [MIT license](https://github.com/RafaelGoulartB/Proffy/master/LICENSE).
-
+Made by [Hudson Duarte](https://github.com/huduarte) 🚀.
 
 Give a ⭐️ if this project helped you!
