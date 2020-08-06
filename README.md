@@ -27,7 +27,12 @@
 </div>
 
 ### Mobile Screenshot
-<div style="display: flex; flex-direction: 'row'; align-items: 'center';">
+### Mobile Screenshot
+<div style="display: flex; flex-direction: 'row';">
+   <img src="https://github.com/huduarte/proffy/blob/master/.github/mobile-splash.png" width="180">
+   <img src="https://github.com/huduarte/proffy/blob/master/.github/mobile-onboarding.png" width="180">
+   <img src="https://github.com/huduarte/proffy/blob/master/.github/mobile-home.png" width="180">
+   <img src="https://github.com/huduarte/proffy/blob/master/.github/mobile-favoritos.png" width="180">
 </div>
 
 # :computer: Technologies
