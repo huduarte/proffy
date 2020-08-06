@@ -22,11 +22,10 @@
 
 ### Web Screenshot
 <div style="display: flex; flex-direction: 'row'; align-items: 'center';">
-   <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/web-landing.png" width="400px">
-   <img src="https://github.com/RafaelGoulartB/Proffy/blob/master/.github/web-list.png" width="400px">
+   <img src="https://github.com/huduarte/Proffy/blob/master/.github/web-landing.png" width="400px">
+   <img src="https://github.com/huduarte/Proffy/blob/master/.github/web-list.png" width="400px">
 </div>
 
-### Mobile Screenshot
 ### Mobile Screenshot
 <div style="display: flex; flex-direction: 'row';">
    <img src="https://github.com/huduarte/proffy/blob/master/.github/mobile-splash.png" width="180">
