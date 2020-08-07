@@ -27,6 +27,7 @@
     text-decoration: none;
     transition: background-color 0.2s;
     margin-top: 3.2rem;
+    outline: none;
 }
 
 #search-teacher button:hover{
